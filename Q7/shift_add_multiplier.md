@@ -42,3 +42,6 @@ The following are some possible future work items for the shift_add module:
 * Support for multiplying data words of different sizes.
 * Support for signed multiplication.
 * Support for multiple precision multiplication.
+
+## Simulation Waveforms from GTKwave
+![waveform](Q7/7th output waveform.png)

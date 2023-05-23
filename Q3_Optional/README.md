@@ -27,6 +27,9 @@ This module implements a D flip-flop with asynchronous active low reset. The D f
 - On the rising edge of the clock, the output (q) is set to the value of the data input (d).
 - If the reset input (rst) is asserted, the output (q) is cleared to 0.
 
+## Simulation Output Waveforms
+![waveform](https://github.com/vishnu-05-03/IRIS-LABs-Rec-Task/blob/main/Q3_Optional/2nd%20output%20waveform.png)
+
 ### Module Future Work:
 
 The following are some possible future work items for the dff module:

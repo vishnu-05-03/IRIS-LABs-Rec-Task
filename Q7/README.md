@@ -1,3 +1,6 @@
+### Question:
+Design an optimized shift and add a multiplier in Verilog with the proper testbench
+
 # Module Description:
 This module implements a shift-and-add multiplier. The multiplier takes two input data words, A and B, and produces a product word P by concatinating two registers A and Q. The multiplication is performed by shifting the multiplicand (A) by one bit for each bit of the multiplier (B). The shifted multiplicand is then added to the partial product, and the carry bit is propagated to the next bit position. The process is repeated until all bits of the multiplier have been processed.
 

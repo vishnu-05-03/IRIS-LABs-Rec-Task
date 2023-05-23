@@ -14,4 +14,8 @@ This module implements a finite state machine (FSM) that detects number of 0’s
 - ```next_state```: The next state of the FSM.
 
 ## Simulation waveform
+- At each state if there is a zero then the ```outp``` is incremented by one.
+- After conting total zeros in first sample it starts counting from beginning.
+- Then the second sample is given.
+
 ![waveform](https://github.com/vishnu-05-03/IRIS-LABs-Rec-Task/blob/main/Q6_Optional/6th%20output%20waveform.png)

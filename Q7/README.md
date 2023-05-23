@@ -44,4 +44,4 @@ The following are some possible future work items for the shift_add module:
 * Support for multiple precision multiplication.
 
 ## Simulation Waveforms from GTKwave
-![waveform](Q7/7th output waveform.png)
+![waveform](https://github.com/vishnu-05-03/IRIS-LABs-Rec-Task/blob/main/Q7/7th%20output%20waveform.png)

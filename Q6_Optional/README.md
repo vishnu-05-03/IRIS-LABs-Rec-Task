@@ -12,3 +12,6 @@ This module implements a finite state machine (FSM) that detects number of 0’s
 ## Internal signals
 - ```state```: The current state of the FSM.
 - ```next_state```: The next state of the FSM.
+
+## Simulation waveform
+![waveform](https://github.com/vishnu-05-03/IRIS-LABs-Rec-Task/blob/main/Q6_Optional/6th%20output%20waveform.png)

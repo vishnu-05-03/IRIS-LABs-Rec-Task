@@ -28,6 +28,9 @@ This module implements a D flip-flop with asynchronous active low reset. The D f
 - If the reset input (rst) is asserted, the output (q) is cleared to 0.
 
 ## Simulation Output Waveforms
+- In the below waveform we can see that the reset given here is active low.
+- Output of the D flip flop follows the input in the next clock cycle. That can be observed here
+- and all the transitions take place at positive clock edge
 ![waveform](https://github.com/vishnu-05-03/IRIS-LABs-Rec-Task/blob/main/Q3_Optional/2nd%20output%20waveform.png)
 
 ### Module Future Work:
